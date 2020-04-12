@@ -7,6 +7,21 @@
 #Access-ControlImg{
     max-width: 100%;
 }
+#LogoImg{
+    max-width: 100%;
+}
 .HPContainer{
     margin-top: 20px;
+}
+.LogoContainer{
+    justify-content: center;
+}
+.ListRowContainer{
+    justify-content: space-evenly;
+}
+.TextContainer{
+    text-align: center;
+}
+.ListText{
+    text-align: left;
 }
